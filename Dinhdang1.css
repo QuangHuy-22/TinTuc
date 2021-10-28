@@ -1,0 +1,102 @@
+*{
+	margin:0;
+	padding:0;
+ }
+ .container-fluid{
+ 	margin:0;
+	padding:0;
+	margin-bottom: 5px;
+ }
+ .navbar{
+ 	height: 42px;
+ 	padding-top: 20px;
+ 	background-color: #78b43d;
+ }
+ /*.navbar .navbar-brand img{
+ 	width: 170px;
+ 	height: 50px;
+ 	margin: auto;
+ }*/
+ html{
+ 	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	margin: auto;
+ }
+.navbar-brand img{
+ 	margin-left: 20px;
+ }
+ /*định dạng thẻ menu*/
+
+.btn-group a{
+	width: 120px;
+	height: 40px;
+	line-height: 25px;
+	color: white;
+}
+.btn-group a:hover{
+	background-color: #F5A60E;
+	color:#FFFFFF;
+}
+.btn-group{
+	margin-left: 120px;
+	color: #0B9628;
+	height: 40px;
+	margin-bottom: 15px;
+}
+/*định dạng thẻ div top*/
+.col-md-12{
+	text-align: center;
+	height: 40px;
+}
+.form-inline{
+	/*margin: auto;*/
+	float: right;
+	margin-left: 110px;
+	margin-bottom: 35px;
+	padding-bottom: 13px;	
+}
+ .btn-light{
+	color: #000;
+}
+/*nội dung chính*/
+.container .row .col-md-8{
+	border-right: 1px solid #ccc;
+}
+.col-md-8 h4{
+	background:#78b43d;
+	text-align:center;
+	color:#fff;
+	margin-bottom:5px;
+	}
+.figure img{
+	width: 500px;
+	margin-left: 100px;
+}
+/*button*/
+#button{
+	height: 50px;
+	background: #999999;
+	text-align: center;
+	width: 100%;	
+}
+#button a{
+	text-decoration:none;
+}
+.container .row .col-md-3{
+	float: left;
+}
+.container h6{
+	display: block;
+}
+.container .row .col-md-3 img{
+	float: left;
+	margin-right: 5px;
+	padding-top: 2px;
+}
+
+.col-md-4 .quangcao1{
+	display: inline;
+}
+.btn-group a:first-child{
+	width: 60px;
+}

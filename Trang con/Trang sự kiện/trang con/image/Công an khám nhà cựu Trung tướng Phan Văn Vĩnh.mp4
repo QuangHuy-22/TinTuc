@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:5
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTINF:1.400,
+https://hls.mediacdn.vn/vinteractive/non_content.mp4/360/seg-1-v1-a1.ts?v=aa4f7848
+#EXT-X-ENDLIST

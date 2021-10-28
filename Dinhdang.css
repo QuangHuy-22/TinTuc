@@ -1,0 +1,117 @@
+/*menu*/
+*{
+	margin:0;
+	padding:0;
+ }
+ .container-fluid{
+ 	margin:0;
+	padding:0;
+	margin-bottom: 5px;
+}
+	.navbar-brand img{
+ 	margin-left: 20px;
+ }
+ .navbar{
+ 	height: 42px;
+ 	padding-top: 20px;
+ 	background-color: #78b43d;
+ }
+ /*.navbar .navbar-brand img{
+ 	width: 170px;
+ 	height: 50px;
+ 	margin: auto;
+ }*/
+ .btn-group a{
+	width: 120px;
+	height: 40px;
+	line-height: 25px;
+	color: white;
+}
+.btn-group a:hover{
+	background-color: #F5A60E;
+	color:#FFFFFF;
+}
+.btn-group{
+	margin-left: 120px;
+	color: #0B9628;
+	height: 40px;
+	margin-bottom: 15px;
+}
+.col-md-12{
+	text-align: center;
+	height: 40px;
+
+	/*background-color: #0B9628;*/
+}
+.form-inline{
+	/*margin: auto;*/
+	float: right;
+	margin-left: 110px;
+	margin-bottom: 35px;
+	padding-bottom: 13px;	
+}
+ .btn-light{
+	color: #000;
+}
+/*Nội dung trái*/
+.col-md-6{
+	/*border-right: 1px solid #cccccc;*/
+	float: left;
+}
+.col-md-6 .new{
+	height: 300px;
+}
+.col-md-6 .new h5{
+	vertical-align: top;
+}
+.col-md-6 .new img{
+	border: 1px solid #cccccc;
+	padding: 1px;
+	float: left;
+	margin-right: 5px;
+}
+ .new a{
+	color:#009;
+}
+
+.new a{
+	text-decoration:none;
+}
+.new a:hover{
+	color:#be1212;
+}
+.new a:active{
+	color:#F00;	
+}
+/*nội dung phải*/
+.col-md-4{
+	/*border-right: 1px solid #cccccc;*/
+}
+.col-md-4 img{
+	padding: 1px;
+	border: 1px solid #cccccc;
+}
+/*button*/
+#button{
+	height: 50px;
+	background: #999999;	
+	text-align: center;
+	width: 100%;
+}
+#button a{
+	text-decoration:none;
+}
+.container .row .col-md-3{
+	float: left;
+}
+.container h6{
+	display: block;
+}
+.container .row .col-md-3 img{
+	float: left;
+	margin-right: 5px;
+	padding-top: 2px;
+}
+.btn-group a:first-child{
+	width: 60px;
+}
