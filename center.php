@@ -1,4 +1,3 @@
-
 			<!-- </div> -->
 			<div class="col-md-4">
 			<!-- <a href="http://fica.vn/"><img src="image/suafica_1503162639.gif" width="350"></a> -->

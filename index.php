@@ -78,3 +78,6 @@ include 'right.php';
 include 'TinTongHop.php';
 include 'bottom.php';
 ?>
+<?php 
+// include 'footer.php'
+?>
